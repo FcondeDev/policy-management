@@ -1,0 +1,3 @@
+policy\management\unit\DataStringConversionUnitTests.class
+policy\management\unit\PolicyUnitTests.class
+policy\management\PolicyManagementIntegrationTests.class
